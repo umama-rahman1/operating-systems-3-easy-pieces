@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.astro": "astro",
+        "*.py": "python",
+        "stdlib.h": "c",
+        "common.h": "c"
+    }
+}
